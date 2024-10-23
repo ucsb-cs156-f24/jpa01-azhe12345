@@ -1,6 +1,6 @@
 #  jpa01-azhe12345
 
-Deployed at: [https://jpa01-azhe12345.dokku-09.cs.ucsb.edu/]
+Deployed at: [http://jpa01-azhe12345.dokku-09.cs.ucsb.edu/]
 
 
 # About this repo
